@@ -256,3 +256,5 @@ For issues and questions:
 **Team**: AI Harvesters  
 **Event**: Smart India Hackathon 2024  
 **Category**: Agriculture & Rural Development
+#   v 0 f i n  
+ 
